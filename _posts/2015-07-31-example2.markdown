@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Another Fake Blog"
+title: Another Fake Blog
 author: Couponing Stacy
+published: true
 ---
+
 <img src="/img/people/couponingstacy.png">
 
 
@@ -11,8 +13,9 @@ Here is a post about clipping the better coupon.
 <img src="/img/posts/findcoupons.jpg">
 
 The above screenshot shows my stockpile from [this haul](https://www.youtube.com/watch?v=4KfBOBbrlwM).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bc0lF50xSS4" frameborder="0" allowfullscreen></iframe>
 
-Have you ever wanted to save 50% or more when shopping, but just don't know where to get the coupons to do so. It can be so confusing to know how many inserts to buy for your family. Watch my video and I will tell you everything you need to know about collecting coupons so you can start saving like an Extreme Couponer.
+Have you ever wanted to save 50% or more when shopping, but just don't know where to get the coupons to do so. It can be so confusing to know how many inserts to buy for your family. Watch my video and I will tell you everything you need to know about collecting coupons so you can start saving like an Extreme Couponer.  
 
 More importantly, I explain where to get coupons here: 
 
