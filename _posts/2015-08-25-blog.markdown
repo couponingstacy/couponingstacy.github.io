@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Cheap Sour Patch Kids at Walgreens"
+author: Couponing Stacy
+---
+
+
+<!--Insert Picture If You Want-->
+<!--img src="/img/posts/2015-MM-DD/filename.ext"-->
+
+
+<img src="/img/posts/2015-08-25/SourPatch.JPG">
+
+
+
+
+
+<!--###################################################-->
+<!--DO NOT MODIFY BELOW-->
+
+<!--Social Media-->
+<!--Twitter-->
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="couponing_stacy" data-count="none">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script><a href="https://twitter.com/couponing_stacy" class="twitter-follow-button" data-show-count>Follow @couponing_stacy</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<!--Twitter-->
+
+<!--DO NOT MODIFY ABOVE-->
+<!--###################################################-->
+
+
+
+<!--Begin Blog Post Below-->
+
+This week at Walgreens Sour Patch Kids, Watermelon, and Berries 8oz bags are on sale 3/$3, regularly $2.99 each!  That's a 67% savings with no coupoons needed!
+
+
+<!--Insert A Youtube Video. Just copy the Embed Text from Youtube-->
+
+
+
